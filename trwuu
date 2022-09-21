@@ -1,0 +1,3 @@
+git remote add origin https://github.com/Trueupandgooooin/fluffy-journey.git
+git branch -M main
+git push -u origin mail
